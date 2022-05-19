@@ -1,0 +1,11 @@
+#no logs
+*.log
+
+#all, except log
+!*.log
+
+# in directory
+dir/
+
+
+
